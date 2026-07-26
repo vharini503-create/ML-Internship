@@ -1,5 +1,5 @@
-name = "Harsha"
-age = 19
+name = "Harini"
+age = 18
 college = "B.Tech AIML"
 
 print(name)
@@ -8,7 +8,7 @@ print(college)
 
 a = 10
 b = 3.14
-name = "Harsha"
+name = "Harini"
 student = True
 
 print(type(a))
