@@ -1,5 +1,3 @@
-
-
 print("----- DAY 3 PYTHON PRACTICE -----")
 
 # 1. INPUT & OUTPUT
