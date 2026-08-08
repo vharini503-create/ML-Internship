@@ -11,7 +11,9 @@ b = 3.14
 name = "Harini"
 student = True
 
+
 print(type(a))
 print(type(b))
 print(type(name))
 print(type(student))
+
